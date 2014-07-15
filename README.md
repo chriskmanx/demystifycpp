@@ -21,8 +21,9 @@ the tiniest C++ code examples --- which makes sensible code navigation nearly im
 Demystifycpp solves this by truncating includes and presenting a read only buffer
 with all macros expanded directly in the editor. 
 
-Copyright (C) 2010 Christoph A. Kohlhepp, all rights reserved.
+Copyright (C) 2010,2014 Christoph A. Kohlhepp, all rights reserved.
 Email chrisk at manx dot net
+http://www.linkedin.com/in/chriskohlhepp
 
 Licensed under the GNU General Public License.
 
